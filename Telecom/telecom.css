@@ -1,0 +1,101 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+header, section, footer, nav, footer, article{
+	display: block;
+}
+body{
+	
+	text-align: center;
+}
+header{
+	height: 100px;
+	background-color: ghostwhite;
+	width: 100%;
+}
+#seacrh{
+	position:absolute;
+	  top:30px;
+	  right: 380px;
+	  border-radius: 20px;
+	  border-style: groove;
+}	
+#button{
+	position:absolute;
+	top:30px;
+	 right: 330px;
+	 border-radius: 20px;
+}  
+#slika{
+	position:absolute;
+	top:30px;
+	 right: 950px;
+}
+#topheading{
+	position:absolute;
+	top:30px;
+	right: 50%;
+}
+footer{
+	background-color: ghostwhite;
+	width:100%;
+	height:20%;
+	
+	
+}
+nav{
+	background-color: ghostwhite;
+	height: 30px;
+}
+#internet{
+	position:absolute;
+	left: 650px;
+}
+#home{
+	position:absolute;
+	left: 550px;
+}
+#devices{
+	position:absolute;
+	left: 750px;
+}
+#tv{
+	position:absolute;
+	left: 850px;
+}
+#section{
+	
+	padding: 50px;
+	display: inline-flex;
+	
+}	
+#section2{
+	padding: 20px;
+	display: inline-flex;
+	
+}
+body{
+	
+background-color: pink;
+	 
+	
+}
+p{
+	color: hotpink;
+}
+h3{
+	color: hotpink;
+}
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img {
+      width: 80%;
+      margin: 20px;
+} 
+#section3{
+	padding: 20px;
+	display: inline-flex;
+}
+.container{
+	background-color:  #e6e6e6;
+}
